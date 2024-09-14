@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-I made this MUSIC-algorithm simulation for my batchelor's thesis work. The aim of this simulation is to compare the efficiency and accuracy of the two MUSIC-algorithm variants discussed in my thesis: root-MUSIC and (spectral)MUSIC. Their accuracy is tested as a function of incomming sinusoids, signal-to-noise ratio and the size of the autocorrelation matrix. The algorithms are tested on how accurately they can find the frequencies of incomming sinusoids in noise. Basics of the subject can be found e.g. at <a href="https://en.wikipedia.org/wiki/MUSIC_(algorithm)"> Wikipedia</a>.
+I made this MUSIC-algorithm simulation for my bachelor's thesis work. The aim of this simulation is to compare the efficiency and accuracy of the two MUSIC-algorithm variants discussed in my thesis: root-MUSIC and (spectral)MUSIC. Their accuracy is tested as a function of incomming sinusoids, signal-to-noise ratio and the size of the autocorrelation matrix. The algorithms are tested on how accurately they can find the frequencies of incomming sinusoids in noise. Basics of the subject can be found e.g. at <a href="https://en.wikipedia.org/wiki/MUSIC_(algorithm)"> Wikipedia</a>.
 <br />
 
 <h2>Results</h2>
